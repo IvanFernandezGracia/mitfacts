@@ -8,3 +8,12 @@ It works with projects using: Babel, TypeScript, Node, React, Angular, Vue and m
 
 ## Web Page Jest 
 https://jestjs.io/
+
+<!-- CONTACT -->
+<a name="conta"></a>
+## Contact
+Ivan Alejandro Fernandez Gracia  
+:email: ivan.fernandez.g@usach.cl  
+:telephone_receiver: +56-961214718  
+Mechanical Engineering  
+Universidad de Santiago de Chile
